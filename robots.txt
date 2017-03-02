@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /lectures_management.html
+Disallow: /lectures_it_and_government.html
+Disallow: /lectures_mobile.html
+Disallow: /lectures_ecommerce.html
+Disallow: /lectures_technical.html
+Disallow: /lectures_digital.html
+
+Host: 2014.nastachku.ru
+Sitemap: http://2014.nastachku.ru/sitemap.xml
